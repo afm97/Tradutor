@@ -1,0 +1,27 @@
+.container{
+  margin-top: 1.875rem;
+  text-align: center;
+  background-color: rgb(201, 201, 201);
+  padding-top: 1.25rem;
+  padding-bottom: 0.9375rem;
+
+}
+
+.box-ans {
+  margin-left: 1.875rem;
+  margin-right: 1.875rem;
+}
+
+.verification-buttom {
+  margin-top: 0.625rem;
+  margin-right: 1.875rem;
+  text-align: justify;
+}
+
+.qntd-tentativas {
+  margin-right: 1.875rem;
+}
+
+.progress-bar {
+  margin-left: 1.875rem;
+}

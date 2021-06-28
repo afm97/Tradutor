@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #1CB0F6;
+  font-size: 1.875rem;
+}
+
+p {
+  font-weight: bolder;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: azure;
+}
